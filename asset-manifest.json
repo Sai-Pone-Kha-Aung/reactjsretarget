@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjsretarget/static/css/main.bfb9b5cf.css",
+    "main.js": "/reactjsretarget/static/js/main.03e7e311.js",
+    "index.html": "/reactjsretarget/index.html",
+    "main.bfb9b5cf.css.map": "/reactjsretarget/static/css/main.bfb9b5cf.css.map",
+    "main.03e7e311.js.map": "/reactjsretarget/static/js/main.03e7e311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb9b5cf.css",
+    "static/js/main.03e7e311.js"
+  ]
+}
